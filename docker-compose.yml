@@ -1,7 +1,7 @@
 web:
   build: .
   ports:
-    - "61000:80"
+    - "62000:80"
   links:
     - db
   volumes:
